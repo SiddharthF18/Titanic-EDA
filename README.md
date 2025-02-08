@@ -30,8 +30,8 @@ The dataset is sourced from Seaborn's built-in `titanic` dataset. It includes th
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/SiddharthF18/Titanic-EDA.git
+   cd Titanic-EDA
    ```
 
 2. Install the required dependencies:
